@@ -1,4 +1,4 @@
-# Angular Navigation Menu
+# Vue Navigation Menu
 
 Create a navigation menu that changes content on the page when 
 each item is clicked.
@@ -13,4 +13,4 @@ is highlighted.
 
 ## Stretch Goals
 
-1. Restyle this example using Bootstrap
+1. Restyle this example using Bootstrap.
